@@ -1,5 +1,17 @@
 # Операционные системы / Operating-Systems
 
+## План ЛР для ЭАС
+
+1 Windows CMD
+
+2 Windows FAR + GUI
+
+3 Linux Terminal
+
+4 Linux MC + GUI
+
+5 Virtualization & Containerization
+
 ## Учебные пособия
 
 Арьков В.Ю. Командная строка CMD : Учебное пособие : Издательские решения, 2021. — 122 с.
@@ -50,4 +62,3 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkKluaVLStsptpP82deKZ1JH
 
 OS Lab8 Virtualization Containerization
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkKpT1eXBawRBLGJcJjeJ-D8
-
