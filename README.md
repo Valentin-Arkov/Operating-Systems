@@ -1,5 +1,15 @@
 # Операционные системы / Operating-Systems
 
+## Презентации
+[1 Введение](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_01_Intro.pdf)
+
+[2 Устройство компьютера](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_02_Сomputer.pdf)
+
+[3 Управление оперативной памятью](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_03_Memory.pdf)
+
+[4 Управление процессами](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_04_Processes.pdf)
+
+
 ## План ЛР для ЭАС
 
 1 Windows CMD
