@@ -74,18 +74,14 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkLht4lDPfUFI7APQnNdABG9
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkI4xlIZFvfkCOmcYOAx1cEx
 
-OS Lab5 Linux MC
+[OS Lab5 Linux MC](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIup10xKVKBqzBtz7TVmR32)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkIup10xKVKBqzBtz7TVmR32
+[OS Lab6 Linux GUI](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKlyFJzQrQ-v5WnVkijn1uK)
 
-OS Lab6 Linux GUI
+[OS Lab7 Utilities etc.](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKluaVLStsptpP82deKZ1JH)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkKlyFJzQrQ-v5WnVkijn1uK
+[OS Lab8 Virtualization Containerization](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKpT1eXBawRBLGJcJjeJ-D8)
 
-OS Lab7 Utilities etc.
+# Дополнительные развлекательные материалы
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkKluaVLStsptpP82deKZ1JH
-
-OS Lab8 Virtualization Containerization
-
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkKpT1eXBawRBLGJcJjeJ-D8
+[Манга Убунчу! про ОС Убунту](https://readmanga.live/ubunchu/vol1/1#page=2)
