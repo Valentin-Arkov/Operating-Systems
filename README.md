@@ -24,63 +24,43 @@
 
 ## Учебные пособия
 
-Арьков В.Ю. Командная строка CMD : Учебное пособие : Издательские решения, 2021. — 122 с.
+[Арьков В.Ю. Командная строка CMD](https://ridero.ru/books/komandnaya_stroka_cmd/)
 
-https://ridero.ru/books/komandnaya_stroka_cmd/
+[Арьков В.Ю. Операционные системы](https://ridero.ru/books/operacionnye_sistemy/)
 
-Арьков В.Ю. Операционные системы : Учебное пособие : Издательские решения, 2021. — 158 с.
+[Арьков В.Ю. Интерфейс пользователя](https://ridero.ru/books/interfeis_polzovatelya/)
 
-https://ridero.ru/books/operacionnye_sistemy/
-
-Арьков В.Ю. Интерфейс пользователя : Учебное пособие : Издательские решения, 2021. — 130 с.
-
-https://ridero.ru/books/interfeis_polzovatelya/
-
-Арьков В.Ю. Виртуализация и контейнеризация : Учебное пособие : Издательские решения, 2022. — 152 с.
-
-https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/
+[Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
 ## Экзамен
 
-Арьков В.Ю. Экзамен по операционным системам : Методические указания : Издательские решения, 2023. — 18 с.
-
-https://ridero.ru/books/ekzamen_po_operacionnym_sistemam/
+[Арьков В.Ю. Экзамен по операционным системам](https://ridero.ru/books/ekzamen_po_operacionnym_sistemam/)
 
 ## Видеоролики
 
-ОС Лекции
+[ОС Лекции 1](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKmM8nnN9h2m_I_mZFHZpBC)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkKmM8nnN9h2m_I_mZFHZpBC
+[ОС Лекции 2](https://www.youtube.com/playlist?list=PLgkPUa9zaIkJPPwKXrq3TA6l4IMkO3K8k)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkJPPwKXrq3TA6l4IMkO3K8k
+[OS Lab Windows CMD 1](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIYiKc0zZ2R9aYd2Gf07Cr-)
 
-OS Lab1 Windows CMD
+[OS Lab Windows CMD 2](https://www.youtube.com/playlist?list=PLgkPUa9zaIkI-vopKsGaICdxXfMrmELlp)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkIYiKc0zZ2R9aYd2Gf07Cr-
+[OS Lab Windows FAR](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIFkmjNgn9VP67vmVGZK63s)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkI-vopKsGaICdxXfMrmELlp
+[OS Lab Windows GUI](https://www.youtube.com/playlist?list=PLgkPUa9zaIkI0pKtjfkbIpRDeEWtg78MY)
 
-OS Lab2 Windows FAR
+[OS Lab Linux Terminal 1](https://www.youtube.com/playlist?list=PLgkPUa9zaIkLht4lDPfUFI7APQnNdABG9)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkIFkmjNgn9VP67vmVGZK63s
+[OS Lab Linux Terminal 2](https://www.youtube.com/playlist?list=PLgkPUa9zaIkI4xlIZFvfkCOmcYOAx1cEx)
 
-OS Lab3 Windows GUI
+[OS Lab Linux MC](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIup10xKVKBqzBtz7TVmR32)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkI0pKtjfkbIpRDeEWtg78MY
+[OS Lab Linux GUI](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKlyFJzQrQ-v5WnVkijn1uK)
 
-OS Lab4 Linux Terminal
+[OS Lab Utilities etc.](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKluaVLStsptpP82deKZ1JH)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkLht4lDPfUFI7APQnNdABG9
-
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkI4xlIZFvfkCOmcYOAx1cEx
-
-[OS Lab5 Linux MC](https://www.youtube.com/playlist?list=PLgkPUa9zaIkIup10xKVKBqzBtz7TVmR32)
-
-[OS Lab6 Linux GUI](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKlyFJzQrQ-v5WnVkijn1uK)
-
-[OS Lab7 Utilities etc.](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKluaVLStsptpP82deKZ1JH)
-
-[OS Lab8 Virtualization Containerization](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKpT1eXBawRBLGJcJjeJ-D8)
+[OS Lab Virtualization Containerization](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKpT1eXBawRBLGJcJjeJ-D8)
 
 # Дополнительные развлекательные материалы
 
