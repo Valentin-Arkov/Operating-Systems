@@ -78,4 +78,4 @@
 
 # Дополнительные развлекательные материалы
 
-[Убунчу! Манга про ОС Ubuntu](https://readmanga.live/ubunchu/vol1/1#page=2)
+[Убунчу! Манга про ОС Ubuntu](https://habr.com/ru/articles/57973/)
