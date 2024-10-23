@@ -10,17 +10,31 @@
 [4 Управление процессами](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_04_Processes.pdf)
 
 
-## План ЛР для ЭАС
+## План ЛР и ПР для ПИ 2к
+
+Лабораторные и практические занятия проводятся следующим образом.
+
+Материал осваиваем самостоятельно (для этого в учебном плане предусмотрено 85 часов самостоятельной рабюоты СРС).
+
+На занятиях защищаем свои знания и навыки. Демонстрируем понимание материала и способность работать в операционной системе.
+
+### Лабораторные работы
 
 1 Windows CMD
 
-2 Windows FAR + GUI
+2 Windows FAR 
 
-3 Linux Terminal
+3 Windows GUI
 
-4 Linux MC + GUI
+### Практические занятия
 
-5 Virtualization & Containerization
+4 Linux Terminal
+
+5 Linux MC
+
+6 Linux GUI
+
+7 Virtualization & Containerization
 
 ## Учебные пособия
 
@@ -32,7 +46,7 @@
 
 [Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
-## Экзамен
+## Экзамен / Дифф зачет
 
 [Арьков В.Ю. Экзамен по операционным системам](https://ridero.ru/books/ekzamen_po_operacionnym_sistemam/)
 
