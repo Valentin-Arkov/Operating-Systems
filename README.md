@@ -22,6 +22,8 @@
 
 1 Windows CMD
 
+[Описание ЛР1](https://ridero.ru/books/komandnaya_stroka_cmd/)
+
 2 Windows FAR 
 
 3 Windows GUI
