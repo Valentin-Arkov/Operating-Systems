@@ -34,13 +34,21 @@
 
 ### Практические занятия
 
-4 Linux Terminal
+ЛР4 Linux Terminal
 
-5 Linux MC
+[Описание ЛР4: см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
 
-6 Linux GUI
+ЛР5 Linux MC
 
-7 Virtualization & Containerization
+[Описание ЛР5: см. часть 2](https://ridero.ru/books/interfeis_polzovatelya/)
+
+ЛР6 Linux GUI
+
+[Описание ЛР6: см. часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
+
+ЛР7 Virtualization & Containerization
+
+[Описание ЛР7](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
 ## Учебные пособия
 
