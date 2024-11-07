@@ -20,13 +20,17 @@
 
 ### Лабораторные работы
 
-1 Windows CMD
+ЛР1 Windows CMD
 
 [Описание ЛР1](https://ridero.ru/books/komandnaya_stroka_cmd/)
 
-2 Windows FAR 
+ЛР2 Windows FAR 
 
-3 Windows GUI
+[Описание ЛР2: см. часть 2](https://ridero.ru/books/operacionnye_sistemy/)
+
+ЛР3 Windows GUI
+
+[Описание ЛР3: см. часть 3](https://ridero.ru/books/operacionnye_sistemy/)
 
 ### Практические занятия
 
