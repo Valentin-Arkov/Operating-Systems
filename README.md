@@ -1,5 +1,7 @@
 # Операционные системы / Operating-Systems
 
+![OS-2024](https://raw.githubusercontent.com/Valentin-Arkov/Operating-Systems/refs/heads/main/2024-11-28-OS.jpg)
+
 ## Презентации
 [1 Введение](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_01_Intro.pdf)
 
