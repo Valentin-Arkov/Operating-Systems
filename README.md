@@ -95,3 +95,5 @@
 # Дополнительные развлекательные материалы
 
 [Убунчу! Манга про ОС Ubuntu](https://en.wikipedia.org/wiki/Ubunchu!)
+
+[ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
