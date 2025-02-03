@@ -28,25 +28,15 @@
 
 ### Лабораторные работы
 
-ЛР1 Windows CMD
+[ЛР1 Windows CMD](https://ridero.ru/books/komandnaya_stroka_cmd/)
 
-[Описание ЛР1](https://ridero.ru/books/komandnaya_stroka_cmd/)
+[ЛР2 Windows FAR + Windows GUI, см. часть 2 и часть 3](https://ridero.ru/books/operacionnye_sistemy/)
 
-ЛР2 Windows FAR + Windows GUI
+[ЛР3 Linux Terminal, см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
 
-[Описание ЛР2: см. часть 2 и часть 3](https://ridero.ru/books/operacionnye_sistemy/)
+[ЛР4 Linux MC + Linux GUI, см. часть 2 и часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
 
-ЛР3 Linux Terminal
-
-[Описание ЛР3: см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
-
-ЛР4 Linux MC + Linux GUI
-
-[Описание ЛР4: см. часть 2 и часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
-
-ЛР5 Virtualization & Containerization
-
-[Описание ЛР7](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
+[ЛР5 Virtualization & Containerization](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
 ## Учебные пособия
 
