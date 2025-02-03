@@ -12,19 +12,19 @@
 [4 Управление процессами](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_04_Processes.pdf)
 
 
-## План ЛР для ЭАС
+## План занятий для ЭАС
 
 ![Учебный план](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/EAS-OS-Plan.jpg)
 
-Лабораторные и практические занятия проводятся следующим образом.
-
 Материал лабораторных работ осваиваем самостоятельно.
 
-Для этого в учебном плане предусмотрена самостоятельная работа (СРС).
+Для этого в учебном плане предусмотрена самостоятельная работа студента (СРС).
 
 На занятиях защищаем свои знания и навыки. 
 
 Демонстрируем понимание материала и способность работать в операционных системах Windows и Linux.
+
+Зачет выставляется по результатам лабораторных работ.
 
 ### Лабораторные работы
 
@@ -32,29 +32,19 @@
 
 [Описание ЛР1](https://ridero.ru/books/komandnaya_stroka_cmd/)
 
-ЛР2 Windows FAR 
+ЛР2 Windows FAR + Windows GUI
 
-[Описание ЛР2: см. часть 2](https://ridero.ru/books/operacionnye_sistemy/)
+[Описание ЛР2: см. часть 2 и часть 3](https://ridero.ru/books/operacionnye_sistemy/)
 
-ЛР3 Windows GUI
+ЛР3 Linux Terminal
 
-[Описание ЛР3: см. часть 3](https://ridero.ru/books/operacionnye_sistemy/)
+[Описание ЛР3: см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
 
-### Практические занятия
+ЛР4 Linux MC + Linux GUI
 
-ЛР4 Linux Terminal
+[Описание ЛР4: см. часть 2 и часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
 
-[Описание ЛР4: см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
-
-ЛР5 Linux MC
-
-[Описание ЛР5: см. часть 2](https://ridero.ru/books/interfeis_polzovatelya/)
-
-ЛР6 Linux GUI
-
-[Описание ЛР6: см. часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
-
-ЛР7 Virtualization & Containerization
+ЛР5 Virtualization & Containerization
 
 [Описание ЛР7](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
@@ -67,8 +57,6 @@
 [Арьков В.Ю. Интерфейс пользователя](https://ridero.ru/books/interfeis_polzovatelya/)
 
 [Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
-
-## Экзамен / Дифф зачет
 
 [Арьков В.Ю. Экзамен по операционным системам](https://ridero.ru/books/ekzamen_po_operacionnym_sistemam/)
 
@@ -98,7 +86,7 @@
 
 [OS Lab Virtualization Containerization](https://www.youtube.com/playlist?list=PLgkPUa9zaIkKpT1eXBawRBLGJcJjeJ-D8)
 
-# Дополнительные развлекательные материалы
+# Дополнительные материалы
 
 [Убунчу! Манга про ОС Ubuntu](https://en.wikipedia.org/wiki/Ubunchu!)
 
