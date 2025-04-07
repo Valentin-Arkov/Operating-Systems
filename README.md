@@ -56,6 +56,8 @@
 
 [Арьков В.Ю. Виртуализация и контейнеризация](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
+[Арьков В.Ю. Скрипты. Сценарии автоматизации](https://ridero.ru/books/skripty_scenarii_avtomatizacii/)
+
 [Арьков В.Ю. Экзамен по операционным системам](https://ridero.ru/books/ekzamen_po_operacionnym_sistemam/)
 
 ## Видеоролики
