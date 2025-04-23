@@ -32,6 +32,8 @@
 
 Зачет выставляется по результатам лабораторных работ.
 
+[Форма для загрузки отчетов по ЛР](https://forms.yandex.ru/u/6808cf06505690567092b29e/)
+
 ### Лабораторные работы
 
 [ЛР1 Windows CMD](https://ridero.ru/books/komandnaya_stroka_cmd/)
