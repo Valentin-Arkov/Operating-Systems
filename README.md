@@ -99,3 +99,5 @@
 [Убунчу! Манга про ОС Ubuntu](https://en.wikipedia.org/wiki/Ubunchu!)
 
 [ЗАЧОТ без хлопот!](https://clck.ru/3FRRyM)
+
+[Пример экз. билета](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_Bilet.jpg)
