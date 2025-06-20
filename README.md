@@ -34,7 +34,9 @@
 
 [Форма для загрузки отчетов по ЛР](https://forms.yandex.ru/u/6808cf06505690567092b29e/)
 
-[Зачет по результатам лабораторных работ](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/EAS-OS-Zachot.jpg)
+### Зачет по результатам лабораторных работ
+
+![Зачет по результатам лабораторных работ](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/EAS-OS-Zachot.jpg)
 
 ### Лабораторные работы
 
