@@ -8,7 +8,10 @@
 
 [Загрузка отчета по КП](https://forms.yandex.ru/u/67f95dfa02848f021372a9d8/)
 
+![No access](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/Cat-Access.jpg)
+
 ## Презентации
+
 [1 Введение](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_01_Intro.pdf)
 
 [2 Устройство компьютера](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_02_Сomputer.pdf)
