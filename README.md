@@ -2,14 +2,6 @@
 
 ![OS-2024](https://raw.githubusercontent.com/Valentin-Arkov/Operating-Systems/refs/heads/main/2024-11-28-OS.jpg)
 
-## Курсовое проектирование ПИ-202Бз
-
-[Задание на курсовое проектирование](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS-Project-2025.pdf)
-
-[Загрузка отчета по КП](https://forms.yandex.ru/u/67f95dfa02848f021372a9d8/)
-
-![No access](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/Cat-Access.jpg)
-
 ## Презентации
 
 [1 Введение](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_01_Intro.pdf)
