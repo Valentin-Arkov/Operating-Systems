@@ -28,7 +28,17 @@
 
 [ЛР3 Linux Terminal, см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
 
+Образ Knoppix для наших работ достаточно взять небольшой типа CD (около 700 МБ).
+
+Образ DVD будет размером поболее (несколько ГБ); он содержит дополнительные программы - не обязательно для первого знакомства с Linux.
+
 [ЛР4 Linux MC + Linux GUI, см. часть 2 и часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
+
+Midnight Commander уже установлен в Knoppix.
+
+Для работы с MC в Ubuntu придется его установить, а для этого нужно подключиться к сети.
+
+НАстроить сеть в виртуальной машине - это отдельная творческая задача.
 
 [ЛР5 Virtualization & Containerization](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 
