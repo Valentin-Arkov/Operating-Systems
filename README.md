@@ -12,27 +12,6 @@
 
 [4 Управление процессами](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_04_Processes.pdf)
 
-
-## План занятий для ЭАС
-
-![Учебный план](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/EAS-OS-Plan.jpg)
-
-Материал лабораторных работ осваиваем самостоятельно.
-
-Для этого в учебном плане предусмотрена самостоятельная работа студента (СРС).
-
-На занятиях защищаем свои знания и навыки. 
-
-Демонстрируем понимание материала и способность работать в операционных системах Windows и Linux.
-
-Зачет выставляется по результатам лабораторных работ.
-
-[Форма для загрузки отчетов по ЛР](https://forms.yandex.ru/u/6808cf06505690567092b29e/)
-
-### Зачет по результатам лабораторных работ
-
-![Зачет по результатам лабораторных работ](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/EAS-OS-Zachot.jpg)
-
 ### Лабораторные работы
 
 [ЛР1 Windows CMD](https://ridero.ru/books/komandnaya_stroka_cmd/)
