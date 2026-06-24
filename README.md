@@ -6,7 +6,7 @@
 
 [Номера билетов]()
 
-[Экзаменационные билеты]()
+[Экзаменационные билеты](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS-exam-bilet.pdf)
 
 [Загрузка ответов PDF через облако](https://forms.yandex.ru/u/6a3b9d7f6d2d7371ba423ade)
 
