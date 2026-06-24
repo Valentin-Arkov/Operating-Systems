@@ -4,7 +4,7 @@
 
 ## Экзамен ПИ-205/206 бз
 
-[Номера билетов]()
+[Номера билетов](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/numbers.jpg)
 
 [Экзаменационные билеты](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS-exam-bilet.pdf)
 
