@@ -2,13 +2,17 @@
 
 ![OS-2024](https://raw.githubusercontent.com/Valentin-Arkov/Operating-Systems/refs/heads/main/2024-11-28-OS.jpg)
 
-## Экзамен ПИ-205/206 бз
+## Отчеты
 
-[Номера билетов](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/numbers.jpg)
+Отчеты / конспекты по каждой лекции оформляем как отдельные блокноты Колаб.
 
-[Экзаменационные билеты](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS-exam-bilet.pdf)
+Название блокнота: "Группа Фамилия Номер лекции", например: "ПИ-208 Иванов 01".
 
-[Загрузка ответов PDF через облако](https://forms.yandex.ru/u/6a3b9d7f6d2d7371ba423ade)
+Открываем доступ на чтение - кнопка "Поделиться".
+
+Копируем ссылку и вставляем в форму:
+
+[Загрузка ссылок на блокноты Колаб](https://forms.yandex.ru/u/6ac86c7ce010dbc86efcf029)
 
 ## Презентации
 
