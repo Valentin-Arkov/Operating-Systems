@@ -16,7 +16,7 @@
 
 ## Лекции
 
-[01 Терминология]()
+[01 Терминология](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/files/OS-L-01-Terms.pdf)
 
 ## Презентации
 
