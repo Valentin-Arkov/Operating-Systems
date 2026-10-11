@@ -14,6 +14,10 @@
 
 [Загрузка ссылок на блокноты Колаб](https://forms.yandex.ru/u/6ac86c7ce010dbc86efcf029)
 
+## Лекции
+
+[01 Терминология]()
+
 ## Презентации
 
 [1 Введение](https://github.com/Valentin-Arkov/Operating-Systems/blob/main/OS_01_Intro.pdf)
