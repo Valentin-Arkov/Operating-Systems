@@ -12,7 +12,7 @@
 
 Копируем ссылку и вставляем в форму:
 
-[Загрузка ссылок на блокноты Колаб](https://forms.yandex.ru/u/6ac86c7ce010dbc86efcf029)
+[Загрузка отчетов по лекциям - блокноты Колаб](https://forms.yandex.ru/u/6ac86c7ce010dbc86efcf029)
 
 ## Лекции
 
@@ -43,17 +43,20 @@
 
 - Права пользователя в дисплейном классе могут быть ограничены, особенно на системном диске C: - чтобы не испортить работающую систему. Поэтому для опытов лучше использовать, например, диск D:. 
 
-[ЛР2 Windows FAR + Windows GUI, см. часть 2 и часть 3](https://ridero.ru/books/operacionnye_sistemy/)
+[ЛР2 Windows FAR](https://ridero.ru/books/operacionnye_sistemy/)
 [Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2021-OS.pdf)
 
-[ЛР3 Linux Terminal, см. часть 1](https://ridero.ru/books/interfeis_polzovatelya/)
+[ЛР3 Windows GUI](https://ridero.ru/books/operacionnye_sistemy/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2021-OS.pdf)
+
+[ЛР4 Linux Terminal (см. часть 1)](https://ridero.ru/books/interfeis_polzovatelya/)
 [Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2022-UI.pdf)
 
 Образ Knoppix для наших работ достаточно взять небольшой типа CD (около 700 МБ).
 
 Образ DVD будет размером поболее (несколько ГБ); он содержит дополнительные программы - не обязательно для первого знакомства с Linux.
 
-[ЛР4 Linux MC + Linux GUI, см. часть 2 и часть 3](https://ridero.ru/books/interfeis_polzovatelya/)
+[ЛР5 Linux MC + Linux GUI (см. часть 2 и часть 3])(https://ridero.ru/books/interfeis_polzovatelya/)
 [Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2022-UI.pdf)
 
 Midnight Commander уже установлен в Knoppix.
@@ -62,10 +65,10 @@ Midnight Commander уже установлен в Knoppix.
 
 НАстроить сеть в виртуальной машине - это отдельная творческая задача.
 
-[ЛР5 Virtualization & Containerization](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
+[ЛР6 Virtualization & Containerization](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 [Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2022-Docker.pdf)
 
-[ЛР Скрипты - Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2025-Scripts.pdf)
+[ЛР7 Скрипты - Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2025-Scripts.pdf)
 
 ## Учебные пособия
 
