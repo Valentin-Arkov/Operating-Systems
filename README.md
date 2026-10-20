@@ -63,7 +63,7 @@ Midnight Commander уже установлен в Knoppix.
 
 Для работы с MC в Ubuntu придется его установить, а для этого нужно подключиться к сети.
 
-НАстроить сеть в виртуальной машине - это отдельная творческая задача.
+Настроить сеть в виртуальной машине - это отдельная творческая задача.
 
 [ЛР6 Virtualization & Containerization](https://ridero.ru/books/virtualizaciya_i_konteinerizaciya/)
 [Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2022-Docker.pdf)
