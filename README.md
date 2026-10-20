@@ -83,6 +83,7 @@ Midnight Commander уже установлен в Knoppix.
 [Арьков В.Ю. Скрипты. Сценарии автоматизации](https://ridero.ru/books/skripty_scenarii_avtomatizacii/)
 
 [Арьков В.Ю. Экзамен по операционным системам](https://ridero.ru/books/ekzamen_po_operacionnym_sistemam/)
+[Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2026-OS-exam.pdf)
 
 ## Видеоролики
 
