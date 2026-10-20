@@ -56,7 +56,7 @@
 
 Образ DVD будет размером поболее (несколько ГБ); он содержит дополнительные программы - не обязательно для первого знакомства с Linux.
 
-[ЛР5 Linux MC + Linux GUI (см. часть 2 и часть 3])(https://ridero.ru/books/interfeis_polzovatelya/)
+[ЛР5 Linux MC + Linux GUI (см. часть 2 и часть 3)](https://ridero.ru/books/interfeis_polzovatelya/)
 [Скачать PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2022-UI.pdf)
 
 Midnight Commander уже установлен в Knoppix.
