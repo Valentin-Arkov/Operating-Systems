@@ -33,6 +33,7 @@
 ### Лабораторные работы
 
 [ЛР1 Windows CMD](https://ridero.ru/books/komandnaya_stroka_cmd/)
+[PDF](https://github.com/Valentin-Arkov/Books/blob/main/files/Arkov-2021-CMD.pdf)
 
 #### Комментарии к ЛР1
 
